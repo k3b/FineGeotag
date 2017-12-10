@@ -38,8 +38,10 @@ FineGeotag has no INTERNET permission, so you don't have to be afraid privacy se
 
 # Support
 
-You can [create a GitHub issue](https://github.com/M66B/FineGeotag/issues) for bugs and feature requests
-or use [this XDA forum](http://forum.xda-developers.com/android/apps-games/20150508-fine-geotag-t3103110) for questions and remarks.
+~~You can [create a GitHub issue](https://github.com/M66B/FineGeotag/issues) for bugs and feature requests
+or use [this XDA forum](http://forum.xda-developers.com/android/apps-games/20150508-fine-geotag-t3103110) for questions and remarks.~~
+
+The issues are disabled and XDA says the project is not maintained. This project worked fabulously in CyanogenMod 13.0, but now I can't make it work on LineageOS 14.1.
 
 # Attribution
 
